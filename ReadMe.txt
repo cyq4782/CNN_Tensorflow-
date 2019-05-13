@@ -1,0 +1,3 @@
+CNN_alphabet：用于神经网络训练
+make_train_data：用于制作训练集
+Test_alphabet：用于测试神经网络的识别效果
