@@ -1,2 +1,2 @@
 # CNN_Tensorflow-
-基于Tensorflow搭建的卷积神经网络
+In this project, we use the convolutional neural network to realize the recognition of handwritten letters.
